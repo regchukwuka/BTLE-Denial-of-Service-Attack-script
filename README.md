@@ -37,14 +37,14 @@ The following devices have been tested with the script and here are their observ
 - **Lookee O2 Ring**: [Behavior]
 - **Checkme BP2A**: Stores data on the device and sends it once Bluetooth is connected.
 - **SleepU Sleep Oxygen Monitor**: [Behavior]
-- **Rhythm+ 2.0 (Scosche)**: Device's Bluetooth gets turned off when the attacker attempts to write (even if write attempts fail).
+- **Rhythm+ 2.0 (Scosche)**: Device's gets overwhelmed and turns off.
 - **Wellue Pulsebit EX**: [Behavior]
 - **Checkme O2 Smart Wrist Pulse Oximeter**: [Behavior]
-- **Kinsa Thermometer**: Can't turn off the thermometer to reset the connection - it thinks it's already connected.
+- **Kinsa Thermometer**: Can't turn off the thermometer to reset the connection until battery dead/attack stopped - it thinks it's already connected.
 - **BabyO2 Babytone Oxygen monitor**: [Behavior]
 - **Wellue Visual Oxy Wrist Pulse Oximeter**: [Behavior]
 
-> **Note**: Where [Behavior] is mentioned, it indicates that the behavior for the particular device needs to be specified.
+> **Note**: Where [Behavior] is mentioned, it indicates that the behavior for the particular device resisted the attack and behaved normally. Although further investigations might prove otherwise.
 
 ---
 
