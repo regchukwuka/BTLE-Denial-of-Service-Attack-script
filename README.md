@@ -31,7 +31,7 @@ The following devices have been tested with the script and here are their observ
 - **Lookee Sleep ring**: [Behavior]
 - **Powerlabs HR Monitor Arm band**: [Behavior]
 - **Powerlabs HR Monitor Chest strap**: [Behavior]
-- **COOSPO HW807 Armband**: [Behavior]
+- **COOSPO HW807 Armband**: Device's gets overwhelmed and turns off.
 - **Livlov Heart Rate Sensor**: [Behavior]
 - **Wellue O2 Ring**: [Behavior]
 - **Lookee O2 Ring**: Device's gets overwhelmed and turns off.
