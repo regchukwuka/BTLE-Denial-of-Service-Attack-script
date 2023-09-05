@@ -34,7 +34,7 @@ The following devices have been tested with the script and here are their observ
 - **COOSPO HW807 Armband**: [Behavior]
 - **Livlov Heart Rate Sensor**: [Behavior]
 - **Wellue O2 Ring**: [Behavior]
-- **Lookee O2 Ring**: [Behavior]
+- **Lookee O2 Ring**: Device's gets overwhelmed and turns off.
 - **Checkme BP2A**: Stores data on the device and sends it once Bluetooth is connected.
 - **SleepU Sleep Oxygen Monitor**: [Behavior]
 - **Rhythm+ 2.0 (Scosche)**: Device's gets overwhelmed and turns off.
